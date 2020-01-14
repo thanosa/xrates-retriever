@@ -1,0 +1,5 @@
+<Exchange currency code (3 capital letters)><Base currency code (3 capital letters)>
+<Historical date 1 in format YYYY-MM-DD>
+<Historical date 2 in format YYYY-MM-DD>
+<...>
+<Historical date n in format YYYY-MM-DD>
